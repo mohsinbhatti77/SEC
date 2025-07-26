@@ -1,0 +1,7 @@
+[ 2025-07-26 16:21:12,106 ] 16 root - INFO - Connected to MongoDB Atlas.
+[ 2025-07-26 16:21:12,106 ] 19 root - INFO - Connecting to MongoDB to fetch data...
+[ 2025-07-26 16:22:04,442 ] 30 root - INFO - Fetched 22110 rows from MongoDB.
+[ 2025-07-26 16:22:04,475 ] 29 root - INFO - Raw data shape: (22110, 32)
+[ 2025-07-26 16:22:04,537 ] 38 root - INFO - Starting basic data cleaning...
+[ 2025-07-26 16:22:04,548 ] 50 root - INFO - Data cleaning completed.
+[ 2025-07-26 16:22:04,548 ] 33 root - INFO - Cleaned data shape: (22110, 32)

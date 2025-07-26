@@ -1,0 +1,2 @@
+[ 2025-07-26 16:52:46,521 ] 39 networksec - ERROR - Error during data cleaning.
+[ 2025-07-26 16:52:46,522 ] 13 networksec - ERROR - Error in script [C:\Users\mohsi\OneDrive\Desktop\SEC\networksec\preprocessing.py] at line [31]: 'DataPreprocessor' object has no attribute 'load_data'

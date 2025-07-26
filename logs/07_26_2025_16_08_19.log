@@ -1,0 +1,3 @@
+[ 2025-07-26 16:08:25,114 ] 16 root - INFO - Connected to MongoDB Atlas.
+[ 2025-07-26 16:08:25,114 ] 13 networksec - ERROR - Error in script [C:\Users\mohsi\OneDrive\Desktop\SEC\networksec\preprocessing.py] at line [18]: module 'networksec.Logging.logger' has no attribute 'info'
+[ 2025-07-26 16:08:25,114 ] 37 root - ERROR - Error in script [C:\Users\mohsi\OneDrive\Desktop\SEC\networksec\preprocessing.py] at line [18]: module 'networksec.Logging.logger' has no attribute 'info'

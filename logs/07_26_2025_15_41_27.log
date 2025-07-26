@@ -1,0 +1,3 @@
+[ 2025-07-26 15:41:27,788 ] 22 root - INFO - Loaded data from Data\raw.csv with shape (22110, 32)
+[ 2025-07-26 15:41:33,372 ] 16 root - INFO - Connected to MongoDB Atlas.
+[ 2025-07-26 15:44:20,644 ] 38 root - INFO - Inserted 22110 records into SEC.SEC

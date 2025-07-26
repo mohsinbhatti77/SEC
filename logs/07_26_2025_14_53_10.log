@@ -1,0 +1,2 @@
+[ 2025-07-26 14:53:10,158 ] 8 networksec - INFO - \u2705 Logging system is working correctly.
+[ 2025-07-26 14:53:10,158 ] 13 networksec - ERROR - Error in script [C:\Users\mohsi\OneDrive\Desktop\SEC\test.py] at line [12]: Testing custom exception handling!

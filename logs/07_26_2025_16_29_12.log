@@ -1,0 +1,4 @@
+[ 2025-07-26 16:29:14,986 ] 16 root - INFO - Connected to MongoDB Atlas.
+[ 2025-07-26 16:30:29,367 ] 23 networksec - INFO - Raw data successfully fetched from MongoDB.
+[ 2025-07-26 16:30:29,434 ] 34 networksec - INFO - Cleaned data (dropped _id if present).
+[ 2025-07-26 16:30:29,501 ] 55 networksec - INFO - Data preprocessing complete. Ready for modeling.
